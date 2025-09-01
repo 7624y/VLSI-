@@ -1,1 +1,1 @@
-# VLSI-
+This project implements a single-cycle RISC-V processor, a simplified microarchitecture that executes one instruction per clock cycle. Based on the open-source RISC-V ISA, it highlights the fundamentals of processor design by combining instruction fetch, decode, execute, memory access, and write-back stages into a single cycle. The design emphasizes simplicity and educational value, making it ideal for learning the core principles of instruction execution and RISC-based architectures.
